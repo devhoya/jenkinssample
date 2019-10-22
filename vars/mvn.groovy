@@ -1,3 +1,3 @@
 def call() {
-  echo 'git sample'
+  echo "git sample"
 }
